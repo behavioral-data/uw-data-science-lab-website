@@ -1,11 +1,5 @@
 # Core Faculty
 
-Tim Althoff
-
-Leilani Battle
-
-Alex Ratner
-
 <table>
   <tr>
     <td><img style="display:block;" src="assets/images/faculty/tim.jpg"     width="100%"></td>
@@ -13,19 +7,26 @@ Alex Ratner
     <td><img style="display:block;" src="assets/images/faculty/alex.jpg"    width="100%"></td>
   </tr>
   <tr>
-     <th><a href="https://timalthoff.de/">Tim Althoff</a></th>
-     <th><a href="https://homes.cs.washington.edu/~leibatt/bio.html">Leilani Battle</a></th>
-     <th><a href="https://ajratner.github.io/">Alex Ratner</a></th>
+     <td><a href="https://timalthoff.de/"><b>Tim Althoff</b></a></td>
+     <td><a href="https://homes.cs.washington.edu/~leibatt/bio.html"><b>Leilani Battle</b></a></td>
+     <td><a href="https://ajratner.github.io/"><b>Alex Ratner</b></a></td>
   </tr>
  </table>
 
 # Collaborating Faculty
 
-Magdalena Balazinska
-
-Jeff Heer
-
-Dan Sucio
+<table>
+  <tr>
+    <td><img style="display:block;" src="assets/images/faculty/magda.jpg" width="100%"></td>
+    <td><img style="display:block;" src="assets/images/faculty/jeff.jpg"  width="100%"></td>
+    <td><img style="display:block;" src="assets/images/faculty/dan.jpg"   width="100%"></td>
+  </tr>
+  <tr>
+     <td><a href="https://www.cs.washington.edu/people/faculty/magda"><b>Magdalena Balazinska</b></a></td>
+     <td><a href="https://homes.cs.washington.edu/~jheer/"><b>Jeff Heer</b></a></td>
+     <td><a href="https://homes.cs.washington.edu/~suciu/"><b>Dan Sucio</b></a></td>
+  </tr>
+ </table>
 
 # Students
 
