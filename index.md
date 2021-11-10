@@ -8,14 +8,14 @@ Alex Ratner
 
 <table>
   <tr>
-    <td><img style="display:block;" src="assets/images/tim.jpg"     width="100%"></td>
-    <td><img style="display:block;" src="assets/images/leilani.jpg" width="100%"></td>
-    <td><img style="display:block;" src="assets/images/alex.jpg"    width="100%"></td>
+    <td><img style="display:block;" src="assets/images/faculty/tim.jpg"     width="100%"></td>
+    <td><img style="display:block;" src="assets/images/faculty/leilani.jpg" width="100%"></td>
+    <td><img style="display:block;" src="assets/images/faculty/alex.jpg"    width="100%"></td>
   </tr>
   <tr>
-     <td>Tim Althoff</td>
-     <td>Leilani Battle</td>
-     <td>Alex Ratner</td>
+     <th><a href="https://timalthoff.de/">Tim Althoff</a></th>
+     <th><a href="https://homes.cs.washington.edu/~leibatt/bio.html">Leilani Battle</a></th>
+     <th><a href="https://ajratner.github.io/">Alex Ratner</a></th>
   </tr>
  </table>
 
