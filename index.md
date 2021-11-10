@@ -7,9 +7,9 @@
     <td><img style="display:block;" src="assets/images/faculty/alex.jpg"    width="100%"></td>
   </tr>
   <tr>
-     <td><a href="https://timalthoff.de/"><b>Tim Althoff</b></a></td>
-     <td><a href="https://homes.cs.washington.edu/~leibatt/bio.html"><b>Leilani Battle</b></a></td>
-     <td><a href="https://ajratner.github.io/"><b>Alex Ratner</b></a></td>
+     <th><a href="https://timalthoff.de/"><b>Tim Althoff</b></a></th>
+     <th><a href="https://homes.cs.washington.edu/~leibatt/bio.html"><b>Leilani Battle</b></a></th>
+     <th><a href="https://ajratner.github.io/"><b>Alex Ratner</b></a></th>
   </tr>
  </table>
 
@@ -22,20 +22,40 @@
     <td><img style="display:block;" src="assets/images/faculty/dan.jpg"   width="100%"></td>
   </tr>
   <tr>
-     <td><a href="https://www.cs.washington.edu/people/faculty/magda"><b>Magdalena Balazinska</b></a></td>
-     <td><a href="https://homes.cs.washington.edu/~jheer/"><b>Jeff Heer</b></a></td>
-     <td><a href="https://homes.cs.washington.edu/~suciu/"><b>Dan Sucio</b></a></td>
+     <th><a href="https://www.cs.washington.edu/people/faculty/magda"><b>Magdalena Balazinska</b></a></th>
+     <th><a href="https://homes.cs.washington.edu/~jheer/"><b>Jeff Heer</b></a></th>
+     <th><a href="https://homes.cs.washington.edu/~suciu/"><b>Dan Sucio</b></a></th>
   </tr>
  </table>
 
 # Students
 
+[Ken Gu](https://kenqgu.com/)
+
+[Inna Lin](https://innawy.github.io/)
+
+[Margaret Li](https://margs.li/)
+
+[Mike Merrill](https://mikemerrill.io/)
+
+[Ashish Sharma](https://ash-shar.github.io/)
+
+[Jina Suh](https://www.microsoft.com/en-us/research/people/jinsuh/)
+
+[Galen Weld](https://galenweld.com/overview)
+
+[Melih Yilmaz](https://github.com/melihyilmaz)
+
+
 # Affiliated Labs
 
-b-data
+![Behavioral Data Science Lab](assets/images/labs/bdata.png)
+### [bdata lab](https://bdata.cs.washington.edu/)
 
-reality lab
+![Reality Lab](assets/images/labs/reality.png)
+### [https://realitylab.uw.edu/](https://realitylab.uw.edu/)
 
-interactive datalab
+![Database Group ](assets/images/labs/db.png)
+### [UW Databases Group](https://db.cs.washington.edu/)
 
-uw databases
+### [UW Interactive Data Lab](https://idl.cs.washington.edu/)
