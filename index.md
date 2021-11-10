@@ -30,30 +30,49 @@
 
 # Students
 
-[Ken Gu](https://kenqgu.com/)
+## [Ken Gu](https://kenqgu.com/)
 
-[Inna Lin](https://innawy.github.io/)
+## [Inna Lin](https://innawy.github.io/)
 
-[Margaret Li](https://margs.li/)
+## [Margaret Li](https://margs.li/)
 
-[Mike Merrill](https://mikemerrill.io/)
+## [Mike Merrill](https://mikemerrill.io/)
 
-[Ashish Sharma](https://ash-shar.github.io/)
+## [Ashish Sharma](https://ash-shar.github.io/)
 
-[Jina Suh](https://www.microsoft.com/en-us/research/people/jinsuh/)
+## [Jina Suh](https://www.microsoft.com/en-us/research/people/jinsuh/)
 
-[Galen Weld](https://galenweld.com/overview)
+## [Galen Weld](https://galenweld.com/overview)
 
-[Melih Yilmaz](https://github.com/melihyilmaz)
+## [Melih Yilmaz](https://github.com/melihyilmaz)
 
 
 # Affiliated Labs
+
+<table>
+  <tr>
+    <td><img style="display:block;" src="assets/images/labs/bdata.png" width="100%"></td>
+    <td><a href="https://bdata.cs.washington.edu/"><b>UW Behavioral Data Science Lab</b></a></td>
+  </tr>
+    <tr>
+    <td><img style="display:block;" src="assets/images/labs/reality.png" width="100%"></td>
+    <td><a href="https://realitylab.uw.edu/"><b>UW Reality Lab</b></a></td>
+  </tr>
+    <tr>
+    <td><img style="display:block;" src="assets/images/labs/db.png" width="100%"></td>
+    <td><a href="https://db.cs.washington.edu/"><b>UW Databases Group</b></a></td>
+  </tr>
+    <tr>
+    <td>IDL Placeholder</td>
+    <td><a href="https://idl.cs.washington.edu/"><b>UW Interactive Data Lab</b></a></td>
+  </tr>
+</table>
 
 ![Behavioral Data Science Lab](assets/images/labs/bdata.png)
 ### [bdata lab](https://bdata.cs.washington.edu/)
 
 ![Reality Lab](assets/images/labs/reality.png)
-### [https://realitylab.uw.edu/](https://realitylab.uw.edu/)
+### [UW Reality Lab](https://realitylab.uw.edu/)
 
 ![Database Group ](assets/images/labs/db.png)
 ### [UW Databases Group](https://db.cs.washington.edu/)
