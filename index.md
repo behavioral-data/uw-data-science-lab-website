@@ -51,15 +51,15 @@
 
 <table>
   <tr>
-    <td><img style="display:block;" src="assets/images/labs/bdata.png" width="300"></td>
+    <td><img style="display:block;" src="assets/images/labs/bdata.png" width="200"></td>
     <td><a href="https://bdata.cs.washington.edu/"><b>UW Behavioral Data Science Lab</b></a></td>
   </tr>
     <tr>
-    <td><img style="display:block;" src="assets/images/labs/reality.png" width="300"></td>
+    <td><img style="display:block;" src="assets/images/labs/reality.png" width="200"></td>
     <td><a href="https://realitylab.uw.edu/"><b>UW Reality Lab</b></a></td>
   </tr>
     <tr>
-    <td><img style="display:block;" src="assets/images/labs/db.png" width="300"></td>
+    <td><img style="display:block;" src="assets/images/labs/db.png" width="200"></td>
     <td><a href="https://db.cs.washington.edu/"><b>UW Databases Group</b></a></td>
   </tr>
     <tr>
