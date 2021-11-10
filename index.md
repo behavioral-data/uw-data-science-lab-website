@@ -51,15 +51,15 @@
 
 <table>
   <tr>
-    <td><img style="display:block;" src="assets/images/labs/bdata.png" width="100%"></td>
+    <td><img style="display:block;" src="assets/images/labs/bdata.png" width="300"></td>
     <td><a href="https://bdata.cs.washington.edu/"><b>UW Behavioral Data Science Lab</b></a></td>
   </tr>
     <tr>
-    <td><img style="display:block;" src="assets/images/labs/reality.png" width="100%"></td>
+    <td><img style="display:block;" src="assets/images/labs/reality.png" width="300"></td>
     <td><a href="https://realitylab.uw.edu/"><b>UW Reality Lab</b></a></td>
   </tr>
     <tr>
-    <td><img style="display:block;" src="assets/images/labs/db.png" width="100%"></td>
+    <td><img style="display:block;" src="assets/images/labs/db.png" width="300"></td>
     <td><a href="https://db.cs.washington.edu/"><b>UW Databases Group</b></a></td>
   </tr>
     <tr>
@@ -67,14 +67,3 @@
     <td><a href="https://idl.cs.washington.edu/"><b>UW Interactive Data Lab</b></a></td>
   </tr>
 </table>
-
-![Behavioral Data Science Lab](assets/images/labs/bdata.png)
-### [bdata lab](https://bdata.cs.washington.edu/)
-
-![Reality Lab](assets/images/labs/reality.png)
-### [UW Reality Lab](https://realitylab.uw.edu/)
-
-![Database Group ](assets/images/labs/db.png)
-### [UW Databases Group](https://db.cs.washington.edu/)
-
-### [UW Interactive Data Lab](https://idl.cs.washington.edu/)
