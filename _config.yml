@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 logo: assets/images/dslab_logo.png
 title: Allen School Data Science Lab
-github:
-  is_project_page: false
+show_downloads: false
+# github:
+#   is_project_page: false
