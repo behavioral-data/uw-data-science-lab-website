@@ -72,6 +72,7 @@ def get_year(paper):
 
 
 with open('../publications.md', 'w') as f:
+    f.write( '# Publications\n\n' ) # header
     for paper in sorted(papers.values(), key=get_year, reverse=True):
         f.write( format_paper(paper) )
         f.write(4*'\n')
