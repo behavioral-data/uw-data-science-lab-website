@@ -62,7 +62,7 @@ def format_paper(paper):
     
     authors = format_long_authors(paper['authors'])
     
-    return f'{title_str}\n\n{authors}\n\n{venue_str} {year_str}\n\n   ' # <--- these spaces are important as they indicate a paragraph break
+    return f'{title_str}\\\n{authors}\\\n{venue_str} {year_str}\n'
 
  
 def get_year(paper):
