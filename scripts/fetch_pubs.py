@@ -55,7 +55,7 @@ def format_long_authors(authors):
 
 def format_paper(paper):
     
-    title_str = '### [{title}]({url})'.format(**paper)
+    title_str = '**[{title}]({url})**'.format(**paper)
     
     venue_str = '*{venue}*'.format(**paper) if len(paper['venue'])>0 else ''
     year_str  = '{year}'.format(**paper) if paper['year'] is not None else ''

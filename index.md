@@ -24,7 +24,7 @@
   <tr>
      <th><a href="https://www.cs.washington.edu/people/faculty/magda"><b>Magda Balazinska</b></a></th>
      <th><a href="https://homes.cs.washington.edu/~jheer/"><b>Jeff Heer</b></a></th>
-     <th><a href="https://homes.cs.washington.edu/~suciu/"><b>Dan Sucio</b></a></th>
+     <th><a href="https://homes.cs.washington.edu/~suciu/"><b>Dan Suciu</b></a></th>
   </tr>
  </table>
 
