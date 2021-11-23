@@ -62,9 +62,9 @@ def format_paper(paper):
     
     authors = format_long_authors(paper['authors'])
     
-    return f'{title_str}\n{authors}\n{venue_str} {year_str}'
+    return f'{title_str}\n\n{authors}\n\n{venue_str} {year_str}\n\n   ' # <--- these spaces are important as they indicate a paragraph break
 
-
+ 
 def get_year(paper):
     try: return int( paper['year'] )
     except:
@@ -74,6 +74,6 @@ def get_year(paper):
 with open('../publications.md', 'w') as f:
     for paper in sorted(papers.values(), key=get_year, reverse=True):
         f.write( format_paper(paper) )
-        f.write(3*'\n')
+        f.write(4*'\n')
         
 print(f'Finished writing {len(papers):,d} papers to markdown.')
