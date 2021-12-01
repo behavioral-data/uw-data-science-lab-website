@@ -1,6 +1,6 @@
 # Core Faculty
 
-<table table-layout: fixed>
+<table table-layout="fixed">
   <tr>
     <td><img style="display:block;" src="assets/images/faculty/tim.jpg"     width="100%"></td>
     <td><img style="display:block;" src="assets/images/faculty/leilani.jpg" width="100%"></td>
@@ -15,7 +15,7 @@
 
 # Collaborating Faculty
 
-<table table-layout: fixed;>
+<table table-layout="fixed">
   <tr>
     <td><img style="display:block;" src="assets/images/faculty/magda.jpg" width="100%"></td>
     <td><img style="display:block;" src="assets/images/faculty/jeff.jpg"  width="100%"></td>
@@ -30,7 +30,7 @@
 
 # Students
 
-<table table-layout: fixed;>
+<table table-layout="fixed">
   <tr>
     <td><img style="display:block;" src="assets/images/students/maureen.jpg" width="100%"></td>
     <td><img style="display:block;" src="assets/images/students/madeleine.jpg" width="100%"></td>
