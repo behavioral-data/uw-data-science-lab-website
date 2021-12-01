@@ -94,7 +94,7 @@
   <tr>
     <td><img style="display:block;" src="assets/images/students/enhao.jpg" width="100%"></td>
     <td><img style="display:block;" src="assets/images/students/jieyu.jpg"  width="100%"></td>
-    <td><img style="display:block;" src="assets/images/students/.jpg"   width="100%"></td>
+    <td></td>
   </tr>
   <tr>
      <th><a href="https://zhang-eh.github.io/"><b>Enhao Zhang</b></a></th>
