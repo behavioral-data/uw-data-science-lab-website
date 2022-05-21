@@ -1,10 +1,113 @@
-
 # Publications
 
+**[Human-AI Collaboration Enables More Empathic Conversations in Text-based Peer-to-Peer Mental Health Support](https://www.semanticscholar.org/paper/6432bcd4435ab79311f42b0336cef1d6cbf1231f)**\
+Ashish Sharma, Inna Wanyin Lin, Adam S. Miner, David C. Atkins, Tim Althoff\
+*ArXiv* 2022
 
-**[Political Bias and Factualness in News Sharing Across more then 100, 000 Online Communities](https://www.semanticscholar.org/paper/063e541e0e9e1b718b9763982b52d099e2a64b94)**\
-Galen Cassebeer Weld, M. Glenski, Tim Althoff\
-*ICWSM* 2021
+
+
+
+**[Grand Challenges for Personal Informatics and AI](https://www.semanticscholar.org/paper/a627c293452e488c1625638dbcdbe3e6de2272cf)**\
+L. Mamykina, Daniel A. Epstein, P. Klasnja, Donna Sprujt-Metz, Jochen Meyer, M. Czerwinski, *et al.*\
+*CHI Extended Abstracts* 2022
+
+
+
+
+**[Large-scale diet tracking data reveal disparate associations between food environment and diet](https://www.semanticscholar.org/paper/e8ad67ae7ccac93dd8fd91b1c86f1da1bfe20248)**\
+Tim Althoff, H. Nilforoshan, J. Hua, J. Leskovec\
+*Nature communications* 2022
+
+
+
+
+**[Estimating the Burden of Influenza-like Illness on Daily Activity at the Population Scale Using Commercial Wearable Sensors.](https://www.semanticscholar.org/paper/f3b50daf04c62d95d3e0ea4463a61bb3462ef285)**\
+A. Mezlini, A. Shapiro, E. J. Daza, Eamon Caddigan, E. Ramirez, Tim Althoff, *et al.*\
+*JAMA network open* 2022
+
+
+
+
+**[A Programmatic Approach to Applying Visualization Taxonomies to Interaction Logs](https://www.semanticscholar.org/paper/104e836db4d8a3ddfba30646339ca04fa86eb3ca)**\
+G. E. M. R. Borgo, T. Schreck, Sneha Gathani, S. Monadjemi, Alvitta Ottley, L. Battle\
+ 2022
+
+
+
+
+**[An Adaptive Benchmark for Modeling User Exploration of Large Datasets](https://www.semanticscholar.org/paper/2046014356d58a23b76fe957b165e884ca36be6e)**\
+Joanna Purich, H. Mahmood, Diana Chou, C. Udeze, L. Battle\
+*ArXiv* 2022
+
+
+
+
+**[Demonstration of VegaPlus: Optimizing Declarative Visualization Languages](https://www.semanticscholar.org/paper/308c00b498da2a2afe00de692b21a8a173386f51)**\
+Junran Yang, Hyekang Joo, Sai S Yerramreddy, Siyao Li, Dominik Moritz, L. Battle\
+ 2022
+
+
+
+
+**[Lodestar: Supporting Independent Learning and Rapid Experimentation Through Data-Driven Analysis Recommendations](https://www.semanticscholar.org/paper/7975445581a8dcdcbc26cdc38ac98020d98975ca)**\
+Deepthi Raghunandan, Zhe Cui, K. Sivaramakrishnan, Segen Tirfe, Shenzhi Shi, Tejaswi Darshan Shrestha, *et al.*\
+*ArXiv* 2022
+
+
+
+
+**[Analyzing online programming communities to enhance visualization languages](https://www.semanticscholar.org/paper/a6333acf6f666f5e40a80d657222044edcafb619)**\
+L. Battle\
+*Interactions* 2022
+
+
+
+
+**[Recommendations for Visualization Recommendations: Exploring Preferences and Priorities in Public Health](https://www.semanticscholar.org/paper/b838b5102a35a87cecac8e34fbc33a9cc62d3500)**\
+Calvin Bao, Siyao Li, Sarah Flores, M. Correll, L. Battle\
+*CHI* 2022
+
+
+
+
+**[Scalable Vega: Optimizing Declarative Visualization Languages](https://www.semanticscholar.org/paper/c5ce419059c34209425818ad36807f6d6de91240)**\
+Junran Yang, Hyekang Joo, Sai S Yerramreddy, Siyao Li, Dominik Moritz, L. Battle\
+*ArXiv* 2022
+
+
+
+
+**[A Grammar-Based Approach for Applying Visualization Taxonomies to Interaction Logs](https://www.semanticscholar.org/paper/d4a313494333f759a1af1a59cc736bba2e9e2a34)**\
+Sneha Gathani, S. Monadjemi, Alvitta Ottley, L. Battle\
+ 2022
+
+
+
+
+**[Testing theories of task in visual analytics](https://www.semanticscholar.org/paper/e698e163665069463c69d8a0cbaf509e1a9dd8c9)**\
+L. Battle, Alvitta Ottley\
+*Interactions* 2022
+
+
+
+
+**[A Survey on Programmatic Weak Supervision](https://www.semanticscholar.org/paper/0fdc3efc11526995d192f18e19f07fba062a76f7)**\
+Jieyu Zhang, Cheng-Yu Hsieh, Yue Yu, Chao Zhang, Alexander J. Ratner\
+*ArXiv* 2022
+
+
+
+
+**[Nemo: Guiding and Contextualizing Weak Supervision for Interactive Data Programming](https://www.semanticscholar.org/paper/ddfe2ff9fe189fb8a4d27d1ba247a1a59b980ce1)**\
+Cheng-Yu Hsieh, Jieyu Zhang, Alexander J. Ratner\
+*ArXiv* 2022
+
+
+
+
+**[What Makes Online Communities 'Better'? Measuring Values, Consensus, and Conflict across Thousands of Subreddits](https://www.semanticscholar.org/paper/1cc696e31a3ae3d037730df262fce681bfec2f02)**\
+Galen Cassebeer Weld, Amy X. Zhang, Tim Althoff\
+*ArXiv* 2021
 
 
 
@@ -30,7 +133,7 @@ Nicasia Beebe-Wang, Alex Okeson, Tim Althoff, Su-In Lee\
 
 
 
-**[Towards Facilitating Empathic Conversations in Online Mental Health Support: A Reinforcement Learning Approach](https://www.semanticscholar.org/paper/4f4a3d638781507c6475aa2b9bfa759615591c81)**\
+**[Towards Facilitating Empathic Conversations in Online Mental Health Support: A Reinforcement Learning Approach](https://www.semanticscholar.org/paper/46506ff15976fec7ddb7ee709edd857e6b98fb1c)**\
 Ashish Sharma, Inna Wanyin Lin, Adam S. Miner, David C. Atkins, Tim Althoff\
 *WWW* 2021
 
@@ -51,6 +154,13 @@ Martin Schweinsberg, Michael Feldman, N. Staub, O. V. D. Akker, R. V. Aert, M. V
 
 
 
+**[Political Bias and Factualness in News Sharing Across more then 100, 000 Online Communities](https://www.semanticscholar.org/paper/769fec9ee0a3402746692b8794d48c75b31987bb)**\
+Galen Cassebeer Weld, M. Glenski, Tim Althoff\
+*ICWSM* 2021
+
+
+
+
 **[MULTIVERSE](https://www.semanticscholar.org/paper/86cee2de1c4fc0896d41f63371b2c92e6f5077fc)**\
 Michael Merrill, Ge Zhang, Tim Althoff\
 *Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining* 2021
@@ -66,14 +176,14 @@ E. Pierson, Tim Althoff, Daniel Thomas, P. Hillard, J. Leskovec\
 
 
 **[Widening Disparities in Online Information Access during the COVID-19 Pandemic](https://www.semanticscholar.org/paper/9dbf82329e8c2acfa0a50176aea3611daec201ae)**\
-J. Suh, E. Horvitz, R. W. White, Tim Althoff\
+J. Suh, E. Horvitz, R. White, Tim Althoff\
 *medRxiv* 2021
 
 
 
 
 **[Estimating the Burden of Influenza on Daily Activity at Population Scale Using Commercial Wearable Sensors](https://www.semanticscholar.org/paper/a5d19c2dea5478748269441c6164652d1fbf86eb)**\
-A. Mezlini, A. Shapiro, E. J. Daza, E. Caddigan, E. Ramírez, Tim Althoff, *et al.*\
+A. Mezlini, A. Shapiro, E. J. Daza, E. Caddigan, E. Ramirez, Tim Althoff, *et al.*\
 *medRxiv* 2021
 
 
@@ -93,6 +203,13 @@ Michael Merrill, Tim Althoff\
 
 
 
+**[An Evaluation-Focused Framework for Visualization Recommendation Algorithms](https://www.semanticscholar.org/paper/a59c95774ceb1753076d73952b17f566d56a967c)**\
+Zehua Zeng, Phoebe Moh, Fan Du, Jane Hoffswell, Tak Yeon Lee, Sana Malik, *et al.*\
+*IEEE Transactions on Visualization and Computer Graphics* 2021
+
+
+
+
 **[Vis Ex Machina: An Analysis of Trust in Human versus Algorithmically Generated Visualization Recommendations](https://www.semanticscholar.org/paper/1acce627176931fb60739055938ba0b2444d0d3b)**\
 Rachael Zehrung, A. Singhal, M. Correll, L. Battle\
 *CHI* 2021
@@ -107,13 +224,6 @@ Hyekang Joo, Calvin Bao, Ishan Sen, Furong Huang, L. Battle\
 
 
 
-**[Lodestar: Supporting Independent Learning and Rapid Experimentation Through Data-Driven Analysis Recommendations](https://www.semanticscholar.org/paper/7975445581a8dcdcbc26cdc38ac98020d98975ca)**\
-Deepthi Raghunandan, Zhe Cui, Kartik Krishnan, Segen Tirfe, Shenzhi Shi, Tejaswi Darshan Shrestha, *et al.*\
- 2021
-
-
-
-
 **[Are We There Yet? A Review on Existing Perceptual Theory and Experiment Support for Visualization Recommendation Systems](https://www.semanticscholar.org/paper/7a444aee8d60aaaf129301df441cd207f0ed0a21)**\
 Zehua Zeng, Minhui Xie, Matthew Gouzoulis, L. Battle\
 *ArXiv* 2021
@@ -121,9 +231,9 @@ Zehua Zeng, Minhui Xie, Matthew Gouzoulis, L. Battle\
 
 
 
-**[An Evaluation-Focused Framework for Visualization Recommendation Algorithms](https://www.semanticscholar.org/paper/a59c95774ceb1753076d73952b17f566d56a967c)**\
-Zehua Zeng, Phoebe Moh, Fan Du, Jane Hoffswell, Tak Yeon Lee, Sana Malik, *et al.*\
-*IEEE transactions on visualization and computer graphics* 2021
+**[User-Driven Programming Support for Rapid Visualization Authoring in D3](https://www.semanticscholar.org/paper/93757c1e39cd206558e40b75b340c8930ae10c8a)**\
+Hannah K. Bako, Alisha Varma, Anuoluwapo Faboro, Mahreen Haider, Favour Nerrise, John P. Dickerson, *et al.*\
+*ArXiv* 2021
 
 
 
@@ -135,16 +245,9 @@ L. Battle, Danni Feng, Kelli Webber\
 
 
 
-**[Creating Training Sets via Weak Indirect Supervision](https://www.semanticscholar.org/paper/2e5e60d4bfd6e66072632fba18094099b55852c7)**\
-Jieyu Zhang, Bohan Wang, Xiangchen Song, Yujing Wang, Yaming Yang, Jing Bai, *et al.*\
-*ArXiv* 2021
-
-
-
-
 **[WRENCH: A Comprehensive Benchmark for Weak Supervision](https://www.semanticscholar.org/paper/3ba529f732d3c4a31e9ce57f1c78ddf911846bf4)**\
 Jieyu Zhang, Yue Yu, Yinghao Li, Yujing Wang, Yaming Yang, Mao Yang, *et al.*\
-*ArXiv* 2021
+*NeurIPS Datasets and Benchmarks* 2021
 
 
 
@@ -156,8 +259,22 @@ Michael A. Hedderich, Benjamin Roth, Katharina Kann, Barbara Plank, Alexander J.
 
 
 
+**[Creating Training Sets via Weak Indirect Supervision](https://www.semanticscholar.org/paper/fd8e176087335355ff5e81821a616d15ec8d3346)**\
+Jieyu Zhang, Bohan Wang, Xiangchen Song, Yujing Wang, Yaming Yang, Jing Bai, *et al.*\
+*ArXiv* 2021
+
+
+
+
+**[CORAL: COde RepresentAtion learning with weakly-supervised transformers for analyzing data analysis](https://www.semanticscholar.org/paper/75e36bb95023e55f7dec95d1af557e219ba3d349)**\
+Ge Zhang, Michael Merrill, Yang Liu, Jeffrey Heer, Tim Althoff\
+*EPJ Data Sci.* 2020
+
+
+
+
 **[Characterizing COVID-19 and Influenza Illnesses in the Real World via Person-Generated Health Data](https://www.semanticscholar.org/paper/04569510dde4528b209ce24ae210075c96d13aa3)**\
-A. Shapiro, N. Marinsek, I. Clay, B. Bradshaw, E. Ramírez, J. Min, *et al.*\
+A. Shapiro, N. Marinsek, I. Clay, B. Bradshaw, E. Ramirez, J. Min, *et al.*\
 *Patterns* 2020
 
 
@@ -199,34 +316,27 @@ Ashish Sharma, Adam S. Miner, David C. Atkins, Tim Althoff\
 
 
 **[Data-Driven Implications for Translating Evidence-Based Psychotherapies into Technology-Delivered Interventions](https://www.semanticscholar.org/paper/1de3b2b3abea5bd07d07f00f0939723f4ad82485)**\
-J. Schroeder, J. Suh, Chelsey R. Wilks, M. Czerwinski, S. Munson, J. Fogarty, *et al.*\
+J. Schroeder, J. Suh, Chelsey R. Wilks, M. Czerwinski, Sean A Munson, J. Fogarty, *et al.*\
 *PervasiveHealth* 2020
 
 
 
 
 **[Boba: Supplemental Material](https://www.semanticscholar.org/paper/5dfb80301e8ec252a908e64e48c34929c6a5288b)**\
-Y. Liu, Alex Kale, Tim Althoff, Jeffrey Heer\
+Yang Liu, Alex Kale, Tim Althoff, Jeffrey Heer\
  2020
 
 
 
 
-**[CORAL: COde RepresentAtion Learning with Weakly-Supervised Transformers for Analyzing Data Analysis](https://www.semanticscholar.org/paper/75e36bb95023e55f7dec95d1af557e219ba3d349)**\
-Ge Zhang, Michael Merrill, Yang Liu, Jeffrey Heer, Tim Althoff\
-*ArXiv* 2020
-
-
-
-
 **[Measuring COVID-19 and Influenza in the Real World via Person-Generated Health Data](https://www.semanticscholar.org/paper/84284719be820f0924f88affce9bb040ec296c0f)**\
-N. Marinsek, A. Shapiro, I. Clay, B. Bradshaw, E. Ramírez, J. Min, *et al.*\
+N. Marinsek, A. Shapiro, I. Clay, B. Bradshaw, E. Ramirez, J. Min, *et al.*\
 *medRxiv* 2020
 
 
 
 
-**[Adjusting for Confounders with Text: Challenges and an Empirical Evaluation Framework for Causal Inference](https://www.semanticscholar.org/paper/a10925c8d753382ab4984149aa5f080bcaf77057)**\
+**[Adjusting for Confounders with Text: Challenges and an Empirical Evaluation Framework for Causal Inference](https://www.semanticscholar.org/paper/abab47e7f46c5fe17565873a08231a5fae72fe1e)**\
 Galen Cassebeer Weld, Peter West, M. Glenski, D. Arbour, Ryan A. Rossi, Tim Althoff\
 *ArXiv* 2020
 
@@ -243,13 +353,6 @@ Yang Liu, Tim Althoff, Jeffrey Heer\
 **[Engagement Patterns of Peer-to-Peer Interactions on Mental Health Platforms](https://www.semanticscholar.org/paper/bf13c1dc27a462136106efe81c95766198953815)**\
 Ashish Sharma, M. Choudhury, Tim Althoff, Amit Sharma\
 *ICWSM* 2020
-
-
-
-
-**[Genotype-phenotype correlations and novel molecular insights into the DHX30-associated neurodevelopmental disorders](https://www.semanticscholar.org/paper/c9652ec8730e95fde462c722339249f4c5c720f5)**\
-I. Mannucci, N. C. Yeo, H. Huber, J. Murry, J. Abramson, Tim Althoff, *et al.*\
-*medRxiv* 2020
 
 
 
@@ -317,8 +420,8 @@ J. Birgmeier, M. Haeussler, C. A. Deisseroth, E. Steinberg, K. Jagadeesh, Alexan
 
 
 
-**[Paths Explored, Paths Omitted, Paths Obscured: Decision Points & Selective Reporting in End-to-End Data Analysis](https://www.semanticscholar.org/paper/85009e7e01ffabb698ed657cba7771d5ec7c5610)**\
-Y. Liu, Tim Althoff, Jeffrey Heer\
+**[Paths Explored, Paths Omitted, Paths Obscured: Decision Points & Selective Reporting in End-to-End Data Analysis](https://www.semanticscholar.org/paper/37c3728d48ae85247a31137714236ec3c8e69012)**\
+Yang Liu, Tim Althoff, Jeffrey Heer\
 *CHI* 2019
 
 
@@ -347,7 +450,7 @@ J. Hicks, Tim Althoff, R. Sosič, Peter Kuhar, B. Bostjancic, A. King, *et al.*\
 
 **[The menstrual cycle is a primary contributor to cyclic variation in women’s mood, behavior, and vital signs](https://www.semanticscholar.org/paper/e01a7f3cb9145926b25314fa44dc4e3ec55f5eed)**\
 E. Pierson, Tim Althoff, Daniel Thomas, P. Hillard, J. Leskovec\
- 2019
+*bioRxiv* 2019
 
 
 
@@ -381,7 +484,7 @@ Lei Cao, Wenbo Tao, Sungtae An, Jing Jin, Yizhou Yan, Xiaoyu Liu, *et al.*\
 
 
 **[Smile](https://www.semanticscholar.org/paper/2fdbf1f1e29f3a6c6c161b8beb91a3c006f4588e)**\
-Lei Cao, Wenbo Tao, Sungtae An, Jing Jin, Yizhou Yan, Xiaoyu Liu, *et al.*\
+Lei Cao, Wenbo Tao, Sungtae An, Jianbing Jin, Yizhou Yan, Xiaoyu Liu, *et al.*\
 *Proceedings of the VLDB Endowment* 2019
 
 
@@ -464,8 +567,15 @@ Khaled Saab, Jared A. Dunnmon, Alexander J. Ratner, D. Rubin, Christopher Ré\
 
 
 
+**[Osprey](https://www.semanticscholar.org/paper/2ae7bd0f031091efa31bf36ce963ed8a46684907)**\
+E. Bringer, Abraham Israeli, Yoav Shoham, Alexander J. Ratner, Christopher Ré\
+*Proceedings of the 3rd International Workshop on Data Management for End-to-End Machine Learning - DEEM'19* 2019
+
+
+
+
 **[A machine-compiled database of genome-wide association studies](https://www.semanticscholar.org/paper/3f6b11143811d38749deb3e7647ca8a88dc439d2)**\
-Volodymyr Kuleshov, Jialin Ding, Christopher Vo, Braden Hancock, Alexander J. Ratner, Yang I. Li, *et al.*\
+Volodymyr Kuleshov, Jialin Ding, Christopher Vo, Braden Hancock, Alexander J. Ratner, Yang Li, *et al.*\
 *Nature Communications* 2019
 
 
@@ -515,13 +625,13 @@ Alexander J. Ratner, Dan Alistarh, G. Alonso, D. Andersen, Peter Bailis, Sarah B
 
 **[AMELIE 2 speeds up Mendelian diagnosis by matching patient phenotype & genotype to primary literature](https://www.semanticscholar.org/paper/f71031a22d3fc7d2c6e9c54df97b678274877408)**\
 J. Birgmeier, M. Haeussler, C. A. Deisseroth, E. Steinberg, K. Jagadeesh, Alexander J. Ratner, *et al.*\
- 2019
+*bioRxiv* 2019
 
 
 
 
 **[I'll Be Back: On the Multiple Lives of Users of a Mobile Activity Tracking Application](https://www.semanticscholar.org/paper/4dcbfe41682fce6aa275f20d93cc268fa8d4e49c)**\
-Zhiyuan (Jerry) Lin, Tim Althoff, J. Leskovec\
+Zhiyuan Jerry Lin, Tim Althoff, J. Leskovec\
 *WWW* 2018
 
 
@@ -676,7 +786,7 @@ Alexander J. Ratner, Stephen H. Bach, Henry R. Ehrenberg, Jason Alan Fries, Sen 
 
 **[DeepDive: declarative knowledge base construction](https://www.semanticscholar.org/paper/192332496ebce71ccd5aa2e9be0b784c362535ee)**\
 Ce Zhang, Christopher Ré, Michael J. Cafarella, Christopher De Sa, Alexander J. Ratner, Jaeho Shin, *et al.*\
-*Commun. ACM* 2017
+ 2017
 
 
 
@@ -704,7 +814,7 @@ Alexander J. Ratner, Stephen H. Bach, Henry R. Ehrenberg, Jason Alan Fries, Sen 
 
 **[AMELIE accelerates Mendelian patient diagnosis directly from the primary literature](https://www.semanticscholar.org/paper/680f672008a4d7087f9b7d07df53ac1cba22e31f)**\
 J. Birgmeier, M. Haeussler, C. A. Deisseroth, K. Jagadeesh, Alexander J. Ratner, H. Guturu, *et al.*\
- 2017
+*bioRxiv* 2017
 
 
 
@@ -864,7 +974,7 @@ Alexander J. Ratner\
 
 
 **[Random Acts of Pizza : Success Factors of Online Requests](https://www.semanticscholar.org/paper/1a27c6b5d3a8da089f255438896a74936f50f4bb)**\
-Tim Althoff, Niloufar Salehi, T. Nguyen\
+Tim Althoff, Niloufar Salehi, Tuan Nguyen\
  2013
 
 
@@ -872,13 +982,13 @@ Tim Althoff, Niloufar Salehi, T. Nguyen\
 
 **[Analysis and forecasting of trending topics in online media streams](https://www.semanticscholar.org/paper/6ec51051d1fea557545677eb415aae72d349c65c)**\
 Tim Althoff, Damian Borth, Jörn Hees, A. Dengel\
-*MM '13* 2013
+*ACM Multimedia* 2013
 
 
 
 
 **[Exploiting and Introducing Parallelism for Efficient Object Detection](https://www.semanticscholar.org/paper/7e8b3cba90d64b31678bea4541070d4d469a1882)**\
-Hyun-Oh Song, S. Zickler, Tim Althoff, Ross B. Girshick, C. Geyer, Mario Fritz, *et al.*\
+Hyun-Oh Song, S. Zickler, Tim Althoff, Ross B. Girshick, Christopher Geyer, Mario Fritz, *et al.*\
  2013
 
 
@@ -913,7 +1023,7 @@ L. Battle, M. Stonebraker, R. Chang\
 
 
 **[Sparselet Models for Efficient Multiclass Object Detection](https://www.semanticscholar.org/paper/2a6336c2055f681be2587f3332c50c96d1d78b5f)**\
-Hyun Oh Song, S. Zickler, Tim Althoff, Ross B. Girshick, Mario Fritz, C. Geyer, *et al.*\
+Hyun Oh Song, S. Zickler, Tim Althoff, Ross B. Girshick, Mario Fritz, Christopher Geyer, *et al.*\
 *ECCV* 2012
 
 
@@ -935,7 +1045,7 @@ Tim Althoff, Hyun Oh Song, Trevor Darrell\
 
 **[Balanced Clustering for Content-based Image Browsing](https://www.semanticscholar.org/paper/7d0579df611da08a1627ecfe4cd3ec2a5add4134)**\
 Tim Althoff, A. Ulges\
- 2011
+*Informatiktage* 2011
 
 
 
@@ -954,30 +1064,16 @@ Bill Howe, Garrett Cole, Emad Souroush, Paraschos Koutris, A. Key, Nodira Khouss
 
 
 
-**[Webbasierte Dokumentation zur Unterstützung ambulanter Palliativversorgung](https://www.semanticscholar.org/paper/039d96db1fa12f6f556f1311318ea3d86f3f5002)**\
-Tobias Hartz, K. Blum, M. Thöns, F. Brinkmann, Tim Althoff, F. Ückert\
- 2010
-
-
-
-
 **[Building the Internet of Things Using RFID: The RFID Ecosystem Experience](https://www.semanticscholar.org/paper/dec6ced56780994ff23d17f648c9e7a425b39fa7)**\
-E. Welbourne, L. Battle, Garrett Cole, K. Gould, Kyle Rector, Samuel Raymer, *et al.*\
+Evan Welbourne, L. Battle, Garrett Cole, K. Gould, Kyle Rector, Samuel Raymer, *et al.*\
 *IEEE Internet Computing* 2009
 
 
 
 
 **[Building the Internet of Things Using Rfid](https://www.semanticscholar.org/paper/e1976798fc3312387361c0dd62bcee6385955eb6)**\
-E. Welbourne, L. Battle, Garrett Cole, K. Gould, Kyle Rector, Samuel Raymer, *et al.*\
+Evan Welbourne, L. Battle, Garrett Cole, K. Gould, Kyle Rector, Samuel Raymer, *et al.*\
  2009
-
-
-
-
-**[Fussbodenplatten-satz mit zwischenelementen für kabelkanäle](https://www.semanticscholar.org/paper/d8c11ceebc12d285a39f6423fa6078a56c01f227)**\
-K. Scholz, Tim Althoff, Wolfgang Wienströer, M. Schätzle\
- 2006
 
 
 
