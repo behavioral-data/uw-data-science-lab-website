@@ -109,18 +109,18 @@
 <table>
   <tr>
     <td><img style="display:block;" src="assets/images/labs/bdata.png" width="200"></td>
-    <td><a href="https://bdata.cs.washington.edu/" target="_blank"><h1>UW Behavioral Data Science Lab</h1></a></td>
+    <td><a href="https://bdata.cs.washington.edu/" target="_blank"><b style="font-size:28px;">UW Behavioral Data Science Lab</b></a></td>
   </tr>
     <tr>
     <td><img style="display:block;" src="assets/images/labs/reality.png" width="200"></td>
-    <td><a href="https://realitylab.uw.edu/" target="_blank"><h1>UW Reality Lab</h1></a></td>
+    <td><a href="https://realitylab.uw.edu/" target="_blank"><b style="font-size:28px;">UW Reality Lab</b></a></td>
   </tr>
     <tr>
     <td><img style="display:block;" src="assets/images/labs/db.png" width="200"></td>
-    <td><a href="https://db.cs.washington.edu/" target="_blank"><h1>UW Databases Group</h1></a></td>
+    <td><a href="https://db.cs.washington.edu/" target="_blank"><b style="font-size:28px;">UW Databases Group</b></a></td>
   </tr>
     <tr>
     <td>IDL Placeholder</td>
-    <td><a href="https://idl.cs.washington.edu/" target="_blank"><h1>UW Interactive Data Lab</h1></a></td>
+    <td><a href="https://idl.cs.washington.edu/" target="_blank"><b style="font-size:28px;">UW Interactive Data Lab</b></a></td>
   </tr>
 </table>
