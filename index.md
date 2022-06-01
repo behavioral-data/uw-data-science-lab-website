@@ -68,7 +68,7 @@
   </tr>
   <tr>
      <th><a href="https://antonlykov.com" target="_blank"><b>Anton Lykov</b></a></th>
-     <th><a href="https://mikemerrill.io/" target="_blank"><b>Mike Merril</b></a></th>
+     <th><a href="https://mikemerrill.io/" target="_blank"><b>Mike Merrill</b></a></th>
      <th><a href="https://ameyabp.github.io/" target="_blank"><b>Ameya Patil</b></a></th>
   </tr>
   <tr>
@@ -120,7 +120,7 @@
     <td><a href="https://db.cs.washington.edu/" target="_blank"><b style="font-size:28px;">UW Databases Group</b></a></td>
   </tr>
     <tr>
-    <td>IDL Placeholder</td>
+    <td><img style="display:block;" src="assets/images/labs/idl.png" width="200"></td>
     <td><a href="https://idl.cs.washington.edu/" target="_blank"><b style="font-size:28px;">UW Interactive Data Lab</b></a></td>
   </tr>
 </table>
