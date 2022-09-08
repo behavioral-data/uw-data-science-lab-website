@@ -117,7 +117,7 @@
   </tr>
     <tr>
     <td><img style="display:block;" src="assets/images/labs/db.png" width="200"></td>
-    <td><a href="https://db.cs.washington.edu/" target="_blank"><b style="font-size:28px;">UW Databases Group</b></a></td>
+    <td><a href="https://db.cs.washington.edu/" target="_blank"><b style="font-size:28px;">UW Database Lab</b></a></td>
   </tr>
     <tr>
     <td><img style="display:block;" src="assets/images/labs/idl.png" width="200"></td>
